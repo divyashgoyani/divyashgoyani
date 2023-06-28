@@ -1,6 +1,6 @@
 <p align="center">
   <a href="https://divyash.netlify.app" target="_blank">
-    <img src="" alt="Cover">
+    <img src="https://raw.githubusercontent.com/divyashgoyani/Library/main/GitHub/Cover.jpg" alt="Cover">
   </a>
 </p>
 
