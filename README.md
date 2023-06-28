@@ -4,7 +4,7 @@
   </a>
 </p>
 
-<h1 align="center">Hi there, I'm<a href="https://divyash.netlify.app" target="_blank" rel="noreferrer">Divyash Goyani</a>👋</h1>
+<h1 align="center">Hi there, I'm <a href="https://divyash.netlify.app" target="_blank" rel="noreferrer">Divyash Goyani</a>👋</h1>
 <h2 align="center">An enthusiastic Frontend developer💻 and skilled Graphic designer✒️ hailing from India</h2>
 
 ### 🤝 Connect with me:
