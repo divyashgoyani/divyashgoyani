@@ -1,23 +1,70 @@
-<h1 align="center">Hi , I'm Divyash Goyani</h1>
-<h3 align="center">A passionate frontend developer from India</h3>
-
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=divyashgoyani&label=Profile%20views&color=0e75b6&style=flat" alt="divyashgoyani" /> </p>
-
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=divyashgoyani" alt="divyashgoyani" /></a> </p>
-
-- 👨‍💻 All of my projects are available at [divyash.netlify.app](divyash.netlify.app)
-
-- 📫 How to reach me **divyashgoyani@gmail.com**
-
-- ⚡ Fun fact **I think I'm Funny**
-
-<h3 align="left">Connect with me:</h3>
-<p align="left">
+<p align="center">
+  <a href="https://divyash.netlify.app" target="_blank">
+    <img src="" alt="Cover">
+  </a>
 </p>
 
-<h3 align="left">Languages and Tools:</h3>
-<p align="left"> <a href="https://developer.android.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/android/android-original-wordmark.svg" alt="android" width="40" height="40"/> </a> <a href="https://getbootstrap.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain-wordmark.svg" alt="bootstrap" width="40" height="40"/> </a> <a href="https://www.cprogramming.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="40" height="40"/> </a> <a href="https://www.chartjs.org" target="_blank" rel="noreferrer"> <img src="https://www.chartjs.org/media/logo-title.svg" alt="chartjs" width="40" height="40"/> </a> <a href="https://www.w3schools.com/cpp/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="cplusplus" width="40" height="40"/> </a> <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> <a href="https://www.figma.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" alt="figma" width="40" height="40"/> </a> <a href="https://heroku.com" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/heroku/heroku-icon.svg" alt="heroku" width="40" height="40"/> </a> <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> <a href="https://www.adobe.com/in/products/illustrator.html" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/adobe_illustrator/adobe_illustrator-icon.svg" alt="illustrator" width="40" height="40"/> </a> <a href="https://ionicframework.com" target="_blank" rel="noreferrer"> <img src="https://upload.wikimedia.org/wikipedia/commons/d/d1/Ionic_Logo.svg" alt="ionic" width="40" height="40"/> </a> <a href="https://www.java.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> <a href="https://www.photoshop.com/en" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/photoshop/photoshop-line.svg" alt="photoshop" width="40" height="40"/> </a> <a href="https://postman.com" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" alt="postman" width="40" height="40"/> </a> <a href="https://reactjs.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/> </a> <a href="https://vuejs.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/vuejs/vuejs-original-wordmark.svg" alt="vuejs" width="40" height="40"/> </a> </p>
+<h1 align="center">Hi there, I'm<a href="https://divyash.netlify.app" target="_blank" rel="noreferrer">Divyash Goyani</a>👋</h1>
+<h2 align="center">An enthusiastic Frontend developer💻 and skilled Graphic designer✒️ hailing from India</h2>
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=divyashgoyani&show_icons=true&locale=en" alt="divyashgoyani" /></p>
+### 🤝 Connect with me:
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=divyashgoyani&" alt="divyashgoyani" /></p>
+  <div><a href="https://divyash.netlify.app" target="_blank"><img align="left" src="https://raw.githubusercontent.com/divyashgoyani/Library/main/GitHub/dg.png" alt="Divyash Goyani | DG" width="21px"></a><a href="mailto:divyashgoyani19@gmail.com" target="_blank"><img align="left" src="https://raw.githubusercontent.com/divyashgoyani/Library/main/GitHub/mail.png" alt="Divyash Goyani | Mail" width="21px"></a><a href="https://www.linkedin.com/in/divyashgoyani" target="_blank"><img align="left" src="https://raw.githubusercontent.com/divyashgoyani/Library/main/GitHub/linkedin.png" alt="Divyash Goyani | LinkedIn" width="21px"></a><a href="https://www.instagram.com/divyashgoyani" target="_blank"><img align="left" src="https://raw.githubusercontent.com/divyashgoyani/Library/main/GitHub/instagram.png" alt="Divyash Goyani | Instagram" width="21px"></a><a href="https://www.facebook.com/divyashgoyani" target="_blank"><img align="left" src="https://raw.githubusercontent.com/divyashgoyani/Library/main/GitHub/facebook.png" alt="Divyash Goyani | Facebook" width="21px"></a></div>
+ <br><br>
+&nbsp;&nbsp;&nbsp;• 💬 If you have any question/feedback, please do not hesitate to reach out to me!
+
+## 🔭 I'm currently working in
+
+<h4>Newton School</h4>
+<ul>
+  <li>Internship</li>
+  <li>Surat, Gujarat</li>
+  <li>April 2022 - October 2022</li>
+</ul>
+<br>
+<h4>Zygal.io (DIPL)</h4>
+<ul>
+  <li>Full-time</li>
+  <li>Pune, Maharashtra</li>
+  <li>November 2022 - Present</li>
+</ul>
+
+## 🌱 I'm currently learning 
+
+- 📱 Android Studio
+- Ionic
+- Vue JS
+- Node JS
+-
+## 💼 Technical Skills
+
+<div align="left">
+  <h3>Languages :</h3>
+  <div>&nbsp;&nbsp;&nbsp;<a href="https://www.cprogramming.com/" target="_blank"><img src="https://raw.githubusercontent.com/divyashgoyani/Library/main/GitHub/c.png" alt="c" height="40px"></a>&nbsp;&nbsp;&nbsp;<a href="https://www.w3schools.com/cpp/" target="_blank"><img src="https://raw.githubusercontent.com/divyashgoyani/Library/main/GitHub/cpp.png" alt="cplusplus" height="40px"></a>&nbsp;&nbsp;&nbsp;<a href="https://www.java.com" target="_blank"><img src="https://raw.githubusercontent.com/divyashgoyani/Library/main/GitHub/java.png" alt="java" height="40px"></a>&nbsp;&nbsp;&nbsp;<a href="https://www.w3.org/html/" target="_blank"><img src="https://raw.githubusercontent.com/divyashgoyani/Library/main/GitHub/html.png" alt="html5" height="40px"></a>&nbsp;&nbsp;&nbsp;<a href="https://www.w3schools.com/css/" target="_blank"><img src="https://raw.githubusercontent.com/divyashgoyani/Library/main/GitHub/css.png" alt="css3" height="40px"></a>&nbsp;&nbsp;&nbsp;<a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank"><img src="https://raw.githubusercontent.com/divyashgoyani/Library/main/GitHub/javascript.png" alt="javascript" height="40px"></a>&nbsp;&nbsp;&nbsp;<a href="https://reactjs.org/" target="_blank"><img src="https://raw.githubusercontent.com/divyashgoyani/Library/main/GitHub/react.png" alt="react" height="40px"></a>&nbsp;&nbsp;&nbsp;<a href="https://vuejs.org/" target="_blank"><img src="https://raw.githubusercontent.com/divyashgoyani/Library/main/GitHub/vue.png" alt="vuejs" height="40px"></a>&nbsp;&nbsp;&nbsp;<a href="https://developer.android.com" target="_blank"><img src="https://raw.githubusercontent.com/divyashgoyani/Library/main/GitHub/android.png" alt="android" height="40px"></a>&nbsp;&nbsp;&nbsp;</div>
+</div>
+<div align="left">
+  <h3>Deploy :</h3>
+  <div>&nbsp;&nbsp;&nbsp;<a href="https://netlify.com" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/divyashgoyani/Library/main/GitHub/netlify.png" alt="netlify" height="40"></a>&nbsp;&nbsp;&nbsp;<a href="https://heroku.com" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/divyashgoyani/Library/main/GitHub/heroku.png" alt="heroku" height="40"></a>&nbsp;&nbsp;&nbsp;</div>
+</div>
+<div align="left">
+  <h3>Libraries :</h3>
+  <div>&nbsp;&nbsp;&nbsp;<a href="https://element.eleme.io" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/divyashgoyani/Library/main/GitHub/elementui.png" alt="elementUI" height="40"></a>&nbsp;&nbsp;&nbsp;<a href="https://m2.material.io" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/divyashgoyani/Library/main/GitHub/materialdesign.png" alt="materialdesign" height="40"></a>&nbsp;&nbsp;&nbsp;<a href="https://getbootstrap.com" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/divyashgoyani/Library/main/GitHub/bootstrap.png" alt="bootstrap" height="40"></a>&nbsp;&nbsp;&nbsp;<a href="https://chartjs.org" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/divyashgoyani/Library/main/GitHub/chartjs.png" alt="chartjs" height="40"></a>&nbsp;&nbsp;&nbsp;<a href="https://ionicframework.com" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/divyashgoyani/Library/main/GitHub/ionic.png" alt="ionic" height="40"></a>&nbsp;&nbsp;&nbsp;</div>
+</div>
+<div align="left">
+  <h3>Graphics :</h3>
+  <div>&nbsp;&nbsp;&nbsp;<a href="https://www.adobe.com/products/photoshop" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/divyashgoyani/Library/main/GitHub/photoshop.png" alt="photoshop" height="40"></a>&nbsp;&nbsp;&nbsp;<a href="https://www.adobe.com/products/illustrator" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/divyashgoyani/Library/main/GitHub/illustrator.png" alt="illustrator" height="40"></a>&nbsp;&nbsp;&nbsp;<a href="https://www.adobe.com/products/premiere" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/divyashgoyani/Library/main/GitHub/premierpro.png" alt="premierpro" height="40"></a>&nbsp;&nbsp;&nbsp;<a href="https://www.figma.com" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/divyashgoyani/Library/main/GitHub/figma.png" alt="figma" height="40"></a>&nbsp;&nbsp;&nbsp;<a href="https://filmora.wondershare.net" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/divyashgoyani/Library/main/GitHub/filmora.png" alt="filmora" height="40"></a>&nbsp;&nbsp;&nbsp;</div>
+</div>
+  
+## 📈 GitHub Stats
+  
+<div>
+  <div style="width:100%;margin:20px 0;display:flex;justify-content:space-around;align-items:center">
+    <img align="center" src="https://github-readme-stats.vercel.app/api?username=divyashgoyani&show_icons=true&locale=en" alt="divyashgoyani">
+    <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=divyashgoyani&" alt="divyashgoyani">
+  </div>
+  <div style="width:100%;margin:20px 0">
+    <a href="https://github.com/ryo-ma/github-profile-trophy">
+      <img src="https://github-profile-trophy.vercel.app/?username=divyashgoyani" width="100%" alt="divyashgoyani">
+    </a>
+  </div>
+</div>
