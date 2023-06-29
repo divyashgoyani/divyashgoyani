@@ -35,7 +35,6 @@
 - Ionic
 - Vue JS
 - Node JS
--
 ## 💼 Technical Skills
 
 <div align="left">
