@@ -53,8 +53,13 @@
   <h3>Graphics :</h3>
   <div>&nbsp;&nbsp;&nbsp;<a href="https://www.adobe.com/products/photoshop" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/divyashgoyani/Library/main/GitHub/photoshop.png" alt="photoshop" height="40"></a>&nbsp;&nbsp;&nbsp;<a href="https://www.adobe.com/products/illustrator" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/divyashgoyani/Library/main/GitHub/illustrator.png" alt="illustrator" height="40"></a>&nbsp;&nbsp;&nbsp;<a href="https://www.adobe.com/products/premiere" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/divyashgoyani/Library/main/GitHub/premierpro.png" alt="premierpro" height="40"></a>&nbsp;&nbsp;&nbsp;<a href="https://www.figma.com" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/divyashgoyani/Library/main/GitHub/figma.png" alt="figma" height="40"></a>&nbsp;&nbsp;&nbsp;<a href="https://filmora.wondershare.net" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/divyashgoyani/Library/main/GitHub/filmora.png" alt="filmora" height="40"></a>&nbsp;&nbsp;&nbsp;</div>
 </div>
-  
-## 📈 GitHub Stats
+
+## 📈 GitHub History!
+
+![Snake animation](https://github.com/thepiyushmalhotra/thepiyushmalhotra/blob/output/github-contribution-grid-snake.svg)
+
+
+## 📈 GitHub Status
   
 <div>
   <div style="width:100%;margin:20px 0;display:flex;justify-content:space-around;align-items:center">
