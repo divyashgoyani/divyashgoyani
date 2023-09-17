@@ -56,7 +56,7 @@
 
 ## 📈 GitHub History!
 
-![Snake animation]([https://github.com/thepiyushmalhotra/thepiyushmalhotra/blob/output/github-contribution-grid-snake.svg](https://github.com/divyashgoyani/Library/blob/main/GitHub/snake.svg))
+<img src="https://github.com/divyashgoyani/Library/blob/main/GitHub/snake.svg" alt="Snake Animation">
 
 
 ## 📈 GitHub Status
