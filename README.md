@@ -30,11 +30,10 @@
 </ul>
 
 ## 🌱 I'm currently learning 
-
-- 📱 Android Studio
-- Ionic
 - Vue JS
 - Node JS
+
+
 ## 💼 Technical Skills
 
 <div align="left">
