@@ -9,9 +9,25 @@
 
 ### 🤝 Connect with me:
 
-  <div><a href="https://divyash.netlify.app" target="_blank"><img align="left" src="https://raw.githubusercontent.com/divyashgoyani/Library/main/GitHub/dg.png" alt="Divyash Goyani | DG" width="21px"></a><a href="mailto:divyashgoyani19@gmail.com" target="_blank"><img align="left" src="https://raw.githubusercontent.com/divyashgoyani/Library/main/GitHub/mail.png" alt="Divyash Goyani | Mail" width="21px"></a><a href="https://www.linkedin.com/in/divyashgoyani" target="_blank"><img align="left" src="https://raw.githubusercontent.com/divyashgoyani/Library/main/GitHub/linkedin.png" alt="Divyash Goyani | LinkedIn" width="21px"></a><a href="https://www.instagram.com/divyashgoyani" target="_blank"><img align="left" src="https://raw.githubusercontent.com/divyashgoyani/Library/main/GitHub/instagram.png" alt="Divyash Goyani | Instagram" width="21px"></a><a href="https://www.facebook.com/divyashgoyani" target="_blank"><img align="left" src="https://raw.githubusercontent.com/divyashgoyani/Library/main/GitHub/facebook.png" alt="Divyash Goyani | Facebook" width="21px"></a></div>
- <br><br>
-&nbsp;&nbsp;&nbsp;• 💬 If you have any question/feedback, please do not hesitate to reach out to me!
+<div>
+    <a href="https://divyash.netlify.app" target="_blank">
+        <img align="left" src="https://raw.githubusercontent.com/divyashgoyani/Library/main/GitHub/dg.png" alt="Divyash Goyani | DG" style="width: 21px;">
+    </a>
+    <a href="mailto:divyashgoyani19@gmail.com" target="_blank">
+        <img align="left" src="https://raw.githubusercontent.com/divyashgoyani/Library/main/GitHub/mail.png" alt="Divyash Goyani | Mail" style="width: 21px;">
+    </a>
+    <a href="https://www.linkedin.com/in/divyashgoyani" target="_blank">
+        <img align="left" src="https://raw.githubusercontent.com/divyashgoyani/Library/main/GitHub/linkedin.png" alt="Divyash Goyani | LinkedIn" style="width: 21px;">
+    </a>
+    <a href="https://www.instagram.com/divyashgoyani" target="_blank">
+        <img align="left" src="https://raw.githubusercontent.com/divyashgoyani/Library/main/GitHub/instagram.png" alt="Divyash Goyani | Instagram" style="width: 21px;">
+    </a>
+    <a href="https://www.facebook.com/divyashgoyani" target="_blank">
+        <img align="left" src="https://raw.githubusercontent.com/divyashgoyani/Library/main/GitHub/facebook.png" alt="Divyash Goyani | Facebook" style="width: 21px;">
+    </a>
+</div>
+<br><br>
+&nbsp;&nbsp;&nbsp;• 💬 If you have any questions/feedback, please do not hesitate to reach out to me!
 
 ## 🔭 I'm currently working in
 
@@ -37,8 +53,36 @@
 ## 💼 Technical Skills
 
 <div align="left">
-  <h3>Languages :</h3>
-  <div>&nbsp;&nbsp;&nbsp;<a href="https://www.cprogramming.com/" target="_blank"><img src="https://raw.githubusercontent.com/divyashgoyani/Library/main/GitHub/c.png" alt="c" height="40px"></a>&nbsp;&nbsp;&nbsp;<a href="https://www.w3schools.com/cpp/" target="_blank"><img src="https://raw.githubusercontent.com/divyashgoyani/Library/main/GitHub/cpp.png" alt="cplusplus" height="40px"></a>&nbsp;&nbsp;&nbsp;<a href="https://www.java.com" target="_blank"><img src="https://raw.githubusercontent.com/divyashgoyani/Library/main/GitHub/java.png" alt="java" height="40px"></a>&nbsp;&nbsp;&nbsp;<a href="https://www.w3.org/html/" target="_blank"><img src="https://raw.githubusercontent.com/divyashgoyani/Library/main/GitHub/html.png" alt="html5" height="40px"></a>&nbsp;&nbsp;&nbsp;<a href="https://www.w3schools.com/css/" target="_blank"><img src="https://raw.githubusercontent.com/divyashgoyani/Library/main/GitHub/css.png" alt="css3" height="40px"></a>&nbsp;&nbsp;&nbsp;<a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank"><img src="https://raw.githubusercontent.com/divyashgoyani/Library/main/GitHub/javascript.png" alt="javascript" height="40px"></a>&nbsp;&nbsp;&nbsp;<a href="https://reactjs.org/" target="_blank"><img src="https://raw.githubusercontent.com/divyashgoyani/Library/main/GitHub/react.png" alt="react" height="40px"></a>&nbsp;&nbsp;&nbsp;<a href="https://vuejs.org/" target="_blank"><img src="https://raw.githubusercontent.com/divyashgoyani/Library/main/GitHub/vue.png" alt="vuejs" height="40px"></a>&nbsp;&nbsp;&nbsp;<a href="https://developer.android.com" target="_blank"><img src="https://raw.githubusercontent.com/divyashgoyani/Library/main/GitHub/android.png" alt="android" height="40px"></a>&nbsp;&nbsp;&nbsp;</div>
+    <h3>Languages :</h3>
+    <div>&nbsp;&nbsp;&nbsp;
+        <a href="https://www.cprogramming.com/" target="_blank" style="text-decoration: none;">
+            <img src="https://raw.githubusercontent.com/divyashgoyani/Library/main/GitHub/c.png" alt="c" style="height: 40px;">
+        </a>&nbsp;&nbsp;&nbsp;
+        <a href="https://www.w3schools.com/cpp/" target="_blank" style="text-decoration: none;">
+            <img src="https://raw.githubusercontent.com/divyashgoyani/Library/main/GitHub/cpp.png" alt="cplusplus" style="height: 40px;">
+        </a>&nbsp;&nbsp;&nbsp;
+        <a href="https://www.java.com" target="_blank" style="text-decoration: none;">
+            <img src="https://raw.githubusercontent.com/divyashgoyani/Library/main/GitHub/java.png" alt="java" style="height: 40px;">
+        </a>&nbsp;&nbsp;&nbsp;
+        <a href="https://www.w3.org/html/" target="_blank" style="text-decoration: none;">
+            <img src="https://raw.githubusercontent.com/divyashgoyani/Library/main/GitHub/html.png" alt="html5" style="height: 40px;">
+        </a>&nbsp;&nbsp;&nbsp;
+        <a href="https://www.w3schools.com/css/" target="_blank" style="text-decoration: none;">
+            <img src="https://raw.githubusercontent.com/divyashgoyani/Library/main/GitHub/css.png" alt="css3" style="height: 40px;">
+        </a>&nbsp;&nbsp;&nbsp;
+        <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" style="text-decoration: none;">
+            <img src="https://raw.githubusercontent.com/divyashgoyani/Library/main/GitHub/javascript.png" alt="javascript" style="height: 40px;">
+        </a>&nbsp;&nbsp;&nbsp;
+        <a href="https://reactjs.org/" target="_blank" style="text-decoration: none;">
+            <img src="https://raw.githubusercontent.com/divyashgoyani/Library/main/GitHub/react.png" alt="react" style="height: 40px;">
+        </a>&nbsp;&nbsp;&nbsp;
+        <a href="https://vuejs.org/" target="_blank" style="text-decoration: none;">
+            <img src="https://raw.githubusercontent.com/divyashgoyani/Library/main/GitHub/vue.png" alt="vuejs" style="height: 40px;">
+        </a>&nbsp;&nbsp;&nbsp;
+        <a href="https://developer.android.com" target="_blank" style="text-decoration: none;">
+            <img src="https://raw.githubusercontent.com/divyashgoyani/Library/main/GitHub/android.png" alt="android" style="height: 40px;">
+        </a>&nbsp;&nbsp;&nbsp;
+    </div>
 </div>
 <div align="left">
   <h3>Deploy :</h3>
