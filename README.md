@@ -54,47 +54,70 @@
 
 <div align="left">
     <h3>Languages :</h3>
-    <div>&nbsp;&nbsp;&nbsp;
-        <a href="https://www.cprogramming.com/" target="_blank" style="text-decoration: none;">
-            <img src="https://raw.githubusercontent.com/divyashgoyani/Library/main/GitHub/c.png" alt="c" style="height: 40px;">
-        </a>&nbsp;&nbsp;&nbsp;
-        <a href="https://www.w3schools.com/cpp/" target="_blank" style="text-decoration: none;">
-            <img src="https://raw.githubusercontent.com/divyashgoyani/Library/main/GitHub/cpp.png" alt="cplusplus" style="height: 40px;">
-        </a>&nbsp;&nbsp;&nbsp;
-        <a href="https://www.java.com" target="_blank" style="text-decoration: none;">
-            <img src="https://raw.githubusercontent.com/divyashgoyani/Library/main/GitHub/java.png" alt="java" style="height: 40px;">
-        </a>&nbsp;&nbsp;&nbsp;
-        <a href="https://www.w3.org/html/" target="_blank" style="text-decoration: none;">
-            <img src="https://raw.githubusercontent.com/divyashgoyani/Library/main/GitHub/html.png" alt="html5" style="height: 40px;">
-        </a>&nbsp;&nbsp;&nbsp;
-        <a href="https://www.w3schools.com/css/" target="_blank" style="text-decoration: none;">
-            <img src="https://raw.githubusercontent.com/divyashgoyani/Library/main/GitHub/css.png" alt="css3" style="height: 40px;">
-        </a>&nbsp;&nbsp;&nbsp;
-        <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" style="text-decoration: none;">
-            <img src="https://raw.githubusercontent.com/divyashgoyani/Library/main/GitHub/javascript.png" alt="javascript" style="height: 40px;">
-        </a>&nbsp;&nbsp;&nbsp;
-        <a href="https://reactjs.org/" target="_blank" style="text-decoration: none;">
-            <img src="https://raw.githubusercontent.com/divyashgoyani/Library/main/GitHub/react.png" alt="react" style="height: 40px;">
-        </a>&nbsp;&nbsp;&nbsp;
-        <a href="https://vuejs.org/" target="_blank" style="text-decoration: none;">
-            <img src="https://raw.githubusercontent.com/divyashgoyani/Library/main/GitHub/vue.png" alt="vuejs" style="height: 40px;">
-        </a>&nbsp;&nbsp;&nbsp;
-        <a href="https://developer.android.com" target="_blank" style="text-decoration: none;">
-            <img src="https://raw.githubusercontent.com/divyashgoyani/Library/main/GitHub/android.png" alt="android" style="height: 40px;">
-        </a>&nbsp;&nbsp;&nbsp;
-    </div>
+    <div>&nbsp;&nbsp;&nbsp;<a href="https://www.cprogramming.com/" target="_blank"><img
+                src="https://raw.githubusercontent.com/divyashgoyani/Library/main/GitHub/c.png" alt="c"
+                style="height: 40px;"></a>&nbsp;&nbsp;&nbsp;<a href="https://www.w3schools.com/cpp/" target="_blank"><img
+                src="https://raw.githubusercontent.com/divyashgoyani/Library/main/GitHub/cpp.png" alt="cplusplus"
+                style="height: 40px;"></a>&nbsp;&nbsp;&nbsp;<a href="https://www.java.com" target="_blank"><img
+                src="https://raw.githubusercontent.com/divyashgoyani/Library/main/GitHub/java.png" alt="java"
+                style="height: 40px;"></a>&nbsp;&nbsp;&nbsp;<a href="https://www.w3.org/html/" target="_blank"><img
+                src="https://raw.githubusercontent.com/divyashgoyani/Library/main/GitHub/html.png" alt="html5"
+                style="height: 40px;"></a>&nbsp;&nbsp;&nbsp;<a href="https://www.w3schools.com/css/" target="_blank"><img
+                src="https://raw.githubusercontent.com/divyashgoyani/Library/main/GitHub/css.png" alt="css3"
+                style="height: 40px;"></a>&nbsp;&nbsp;&nbsp;<a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript"
+            target="_blank"><img
+                src="https://raw.githubusercontent.com/divyashgoyani/Library/main/GitHub/javascript.png"
+                alt="javascript" style="height: 40px;"></a>&nbsp;&nbsp;&nbsp;<a href="https://reactjs.org/" target="_blank"><img
+                src="https://raw.githubusercontent.com/divyashgoyani/Library/main/GitHub/react.png" alt="react"
+                style="height: 40px;"></a>&nbsp;&nbsp;&nbsp;<a href="https://vuejs.org/" target="_blank"><img
+                src="https://raw.githubusercontent.com/divyashgoyani/Library/main/GitHub/vue.png" alt="vuejs"
+                style="height: 40px;"></a>&nbsp;&nbsp;&nbsp;</div>
 </div>
 <div align="left">
-  <h3>Deploy :</h3>
-  <div>&nbsp;&nbsp;&nbsp;<a href="https://netlify.com" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/divyashgoyani/Library/main/GitHub/netlify.png" alt="netlify" height="40"></a>&nbsp;&nbsp;&nbsp;<a href="https://heroku.com" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/divyashgoyani/Library/main/GitHub/heroku.png" alt="heroku" height="40"></a>&nbsp;&nbsp;&nbsp;</div>
+    <h3>Deploy :</h3>
+    <div>&nbsp;&nbsp;&nbsp;<a href="https://netlify.com" target="_blank" rel="noreferrer"><img
+                src="https://raw.githubusercontent.com/divyashgoyani/Library/main/GitHub/netlify.png" alt="netlify"
+                style="height: 40px;"></a>&nbsp;&nbsp;&nbsp;<a href="https://heroku.com" target="_blank" rel="noreferrer"><img
+                src="https://raw.githubusercontent.com/divyashgoyani/Library/main/GitHub/heroku.png" alt="heroku"
+                style="height: 40px;"></a>&nbsp;&nbsp;&nbsp;</div>
 </div>
 <div align="left">
-  <h3>Libraries :</h3>
-  <div>&nbsp;&nbsp;&nbsp;<a href="https://element.eleme.io" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/divyashgoyani/Library/main/GitHub/elementui.png" alt="elementUI" height="40"></a>&nbsp;&nbsp;&nbsp;<a href="https://m2.material.io" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/divyashgoyani/Library/main/GitHub/materialdesign.png" alt="materialdesign" height="40"></a>&nbsp;&nbsp;&nbsp;<a href="https://getbootstrap.com" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/divyashgoyani/Library/main/GitHub/bootstrap.png" alt="bootstrap" height="40"></a>&nbsp;&nbsp;&nbsp;<a href="https://chartjs.org" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/divyashgoyani/Library/main/GitHub/chartjs.png" alt="chartjs" height="40"></a>&nbsp;&nbsp;&nbsp;<a href="https://tailwindcss.com" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/divyashgoyani/Library/main/GitHub/tailwindcss.png" alt="tailwindcss" height="40"></a>&nbsp;&nbsp;&nbsp;<a href="https://jqueryui.com" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/divyashgoyani/Library/main/GitHub/jqueryui.png" alt="jqueryui" height="40"></a>&nbsp;&nbsp;&nbsp;<a href="https://jquery.com" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/divyashgoyani/Library/main/GitHub/jquery.png" alt="jquery" height="40"></a>&nbsp;&nbsp;&nbsp;</div>
+    <h3>Libraries :</h3>
+    <div>&nbsp;&nbsp;&nbsp;<a href="https://element.eleme.io" target="_blank" rel="noreferrer"><img
+                src="https://raw.githubusercontent.com/divyashgoyani/Library/main/GitHub/elementui.png" alt="elementUI"
+                style="height: 40px;"></a>&nbsp;&nbsp;&nbsp;<a href="https://m2.material.io" target="_blank" rel="noreferrer"><img
+                src="https://raw.githubusercontent.com/divyashgoyani/Library/main/GitHub/materialdesign.png"
+                alt="materialdesign" style="height: 40px;"></a>&nbsp;&nbsp;&nbsp;<a href="https://getbootstrap.com"
+            target="_blank" rel="noreferrer"><img
+                src="https://raw.githubusercontent.com/divyashgoyani/Library/main/GitHub/bootstrap.png" alt="bootstrap"
+                style="height: 40px;"></a>&nbsp;&nbsp;&nbsp;<a href="https://chartjs.org" target="_blank" rel="noreferrer"><img
+                src="https://raw.githubusercontent.com/divyashgoyani/Library/main/GitHub/chartjs.png" alt="chartjs"
+                style="height: 40px;"></a>&nbsp;&nbsp;&nbsp;<a href="https://tailwindcss.com" target="_blank"
+            rel="noreferrer"><img
+                src="https://raw.githubusercontent.com/divyashgoyani/Library/main/GitHub/tailwindcss.png"
+                alt="tailwindcss" style="height: 40px;"></a>&nbsp;&nbsp;&nbsp;<a href="https://jqueryui.com" target="_blank"
+            rel="noreferrer"><img src="https://raw.githubusercontent.com/divyashgoyani/Library/main/GitHub/jqueryui.png"
+                alt="jqueryui" style="height: 40px;"></a>&nbsp;&nbsp;&nbsp;<a href="https://jquery.com" target="_blank"
+            rel="noreferrer"><img src="https://raw.githubusercontent.com/divyashgoyani/Library/main/GitHub/jquery.png"
+                alt="jquery" style="height: 40px;"></a>&nbsp;&nbsp;&nbsp;<a href="https://fabricjs.com" target="_blank"><img
+                src="https://raw.githubusercontent.com/divyashgoyani/Library/main/GitHub/fabric.png" alt="fabric"
+                style="height: 40px;"></a>&nbsp;&nbsp;&nbsp;</div>
 </div>
 <div align="left">
-  <h3>Graphics :</h3>
-  <div>&nbsp;&nbsp;&nbsp;<a href="https://www.adobe.com/products/photoshop" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/divyashgoyani/Library/main/GitHub/photoshop.png" alt="photoshop" height="40"></a>&nbsp;&nbsp;&nbsp;<a href="https://www.adobe.com/products/illustrator" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/divyashgoyani/Library/main/GitHub/illustrator.png" alt="illustrator" height="40"></a>&nbsp;&nbsp;&nbsp;<a href="https://www.adobe.com/products/premiere" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/divyashgoyani/Library/main/GitHub/premierpro.png" alt="premierpro" height="40"></a>&nbsp;&nbsp;&nbsp;<a href="https://www.figma.com" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/divyashgoyani/Library/main/GitHub/figma.png" alt="figma" height="40"></a>&nbsp;&nbsp;&nbsp;<a href="https://filmora.wondershare.net" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/divyashgoyani/Library/main/GitHub/filmora.png" alt="filmora" height="40"></a>&nbsp;&nbsp;&nbsp;</div>
+    <h3>Graphics :</h3>
+    <div>&nbsp;&nbsp;&nbsp;<a href="https://www.adobe.com/products/photoshop" target="_blank" rel="noreferrer"><img
+                src="https://raw.githubusercontent.com/divyashgoyani/Library/main/GitHub/photoshop.png" alt="photoshop"
+                style="height: 40px;"></a>&nbsp;&nbsp;&nbsp;<a href="https://www.adobe.com/products/illustrator" target="_blank"
+            rel="noreferrer"><img
+                src="https://raw.githubusercontent.com/divyashgoyani/Library/main/GitHub/illustrator.png"
+                alt="illustrator" style="height: 40px;"></a>&nbsp;&nbsp;&nbsp;<a href="https://www.adobe.com/products/premiere"
+            target="_blank" rel="noreferrer"><img
+                src="https://raw.githubusercontent.com/divyashgoyani/Library/main/GitHub/premierpro.png"
+                alt="premierpro" style="height: 40px;"></a>&nbsp;&nbsp;&nbsp;<a href="https://www.figma.com" target="_blank"
+            rel="noreferrer"><img src="https://raw.githubusercontent.com/divyashgoyani/Library/main/GitHub/figma.png"
+                alt="figma" style="height: 40px;"></a>&nbsp;&nbsp;&nbsp;<a href="https://filmora.wondershare.net" target="_blank"
+            rel="noreferrer"><img src="https://raw.githubusercontent.com/divyashgoyani/Library/main/GitHub/filmora.png"
+                alt="filmora" style="height: 40px;"></a>&nbsp;&nbsp;&nbsp;</div>
 </div>
 
 ## 📈 GitHub History!
