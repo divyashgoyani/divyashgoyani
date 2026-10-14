@@ -1,111 +1,111 @@
 
-<!-- ===================================================== -->
-<!--                     HERO SECTION                      -->
-<!-- ===================================================== -->
+<!-- ===================== HERO ===================== -->
 
 <div align="center">
 
-<img width="100%" src="https://capsule-render.vercel.app/api?type=rect&color=0:0B1020,50:172554,100:2563EB&height=190&section=header&text=DIVYASH%20GOYANI&fontSize=44&fontColor=FFFFFF&fontAlignY=40&desc=SOFTWARE%20DEVELOPER%20%7C%20FULL-STACK%20JOURNEY&descSize=14&descAlignY=65&animation=fadeIn" alt="Divyash Goyani - Developer"/>
+<img width="100%" src="https://capsule-render.vercel.app/api?type=rect&color=0:0B1020,50:172554,100:2563EB&height=180&section=header&text=DIVYASH%20GOYANI&fontSize=42&fontColor=FFFFFF&fontAlignY=42&desc=SOFTWARE%20DEVELOPER%20%7C%20FULL-STACK%20JOURNEY&descSize=13&descAlignY=65&animation=fadeIn" />
 
 <br/>
 
 <a href="https://divyash.netlify.app">
-  <img src="https://img.shields.io/badge/Portfolio-Visit%20Website-2563EB?style=for-the-badge&logo=googlechrome&logoColor=white" alt="Portfolio"/>
+  <img src="https://img.shields.io/badge/PORTFOLIO-2563EB?style=for-the-badge&logo=googlechrome&logoColor=white" alt="Portfolio"/>
 </a>
 <a href="https://www.linkedin.com/in/divyashgoyani">
-  <img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
+  <img src="https://img.shields.io/badge/LINKEDIN-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
 </a>
 <a href="mailto:divyashgoyani19@gmail.com">
-  <img src="https://img.shields.io/badge/Email-Contact-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/>
+  <img src="https://img.shields.io/badge/CONTACT-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/>
 </a>
 
 <br/><br/>
 
-<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=500&size=16&duration=3000&pause=900&color=60A5FA&center=true&vCenter=true&width=650&lines=Frontend+Experience%2C+Full-Stack+Ambition;Learning+Modern+Web+Engineering;Turning+Ideas+Into+Working+Applications" alt="Developer tagline"/>
+<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=500&size=17&duration=3000&pause=900&color=60A5FA&center=true&vCenter=true&width=650&lines=Frontend+Experience%2C+Full-Stack+Ambition;Learning+Modern+Web+Engineering;Turning+Ideas+Into+Working+Applications" alt="Developer introduction"/>
 
 </div>
 
 ---
 
-## 01 — About Me
+## `01` — The Developer
 
-I'm **Divyash Goyani**, a developer based in Pune, India, with professional experience in frontend and UI development.
+I'm **Divyash Goyani**, a developer based in Pune, India.
 
-I'm expanding my skills toward full-stack development, with the goal of building complete web applications — from intuitive user interfaces to backend APIs and databases.
+I have professional experience in frontend and UI development. I'm now expanding my engineering skills to understand how complete web applications work — from the user interface to APIs, databases, and deployment.
 
-- 💻 Professional experience in frontend/UI development.
-- 🎨 Interested in responsive design and maintainable interfaces.
-- 📚 Currently learning React, Redux, Next.js, TypeScript, and Git.
-- 🔧 Planning to develop backend skills with Node.js, Express.js, and MongoDB.
-- 🚀 Focused on hands-on projects and continuous improvement.
+```text
+CURRENT FOCUS
+├── Frontend       → JavaScript, Vue.js, React
+├── Modern Web     → Redux, Next.js, TypeScript
+├── Version Control→ Git & GitHub
+└── Backend        → Node.js, Express.js, MongoDB
+                     [Learning Roadmap]
+```
+
+- **Professional experience:** Frontend/UI development at Zygal.io (DIPL)
+- **Education:** Full Stack Development — Newton School
+- **Currently learning:** React, Redux, Next.js, TypeScript and Git
+- **Long-term direction:** Full-stack application development
 
 <div align="center">
 
-> **From building interfaces to understanding the entire application.**
+> My goal is to understand the entire application, not just the interface.
 
 </div>
 
 ---
 
-## 02 — Technology Stack
+## `02` — Technology Stack
 
 <div align="center">
 
 ### Frontend Foundation
 
-<img src="https://skillicons.dev/icons?i=html,css,js,vue&theme=dark" alt="HTML CSS JavaScript Vue.js"/>
-
-<br/><br/>
+<img src="https://skillicons.dev/icons?i=html,css,js,vue&theme=dark" alt="HTML CSS JavaScript Vue" />
 
 ### Currently Learning
 
-<img src="https://skillicons.dev/icons?i=react,redux,nextjs,ts,git,github&theme=dark" alt="React Redux Next.js TypeScript Git GitHub"/>
+<img src="https://skillicons.dev/icons?i=react,redux,nextjs,ts,git,github&theme=dark" alt="React Redux Next.js TypeScript Git GitHub" />
 
-<br/><br/>
+### Backend Roadmap
 
-### Backend Learning Roadmap
-
-<img src="https://skillicons.dev/icons?i=nodejs,express,mongodb&theme=dark" alt="Node.js Express MongoDB"/>
-
-<br/><br/>
+<img src="https://skillicons.dev/icons?i=nodejs,express,mongodb&theme=dark" alt="Node.js Express MongoDB learning roadmap" />
 
 ### Design & UI
 
-<img src="https://skillicons.dev/icons?i=figma,ps,ai,bootstrap&theme=dark" alt="Figma Photoshop Illustrator Bootstrap"/>
+<img src="https://skillicons.dev/icons?i=figma,ps,ai,bootstrap&theme=dark" alt="Figma Photoshop Illustrator Bootstrap" />
 
 </div>
 
 <details>
-<summary><b>Technology details</b></summary>
+<summary><b>View technology details</b></summary>
 
-| Category | Technologies |
+| Area | Technologies |
 |---|---|
 | Core web | HTML5, CSS3, JavaScript |
-| Frontend | Vue.js |
-| UI libraries | Bootstrap, jQuery, Chart.js, Element UI |
-| Currently learning | React, Redux, Next.js, TypeScript, Git |
+| Frontend | Vue.js, React ecosystem |
+| Libraries | Bootstrap, jQuery, Chart.js, Element UI |
+| Learning | Redux, Next.js, TypeScript, Git |
 | Backend roadmap | Node.js, Express.js, MongoDB |
-| Design tools | Figma, Photoshop, Illustrator |
+| Design | Figma, Photoshop, Illustrator |
 
 </details>
 
 ---
 
-## 03 — Selected Projects
+## `03` — Selected Projects
 
 <div align="center">
 
-*Project concepts to develop and showcase as my skills progress.*
+### Things I'm building toward
 
 </div>
 
-<table width="100%">
+<table>
 <tr>
 <td width="50%" valign="top">
 
 ### ◈ DevBoard
 
-**Developer Productivity Dashboard**
+**A Developer Productivity Dashboard**
 
 A dashboard concept for organizing tasks, tracking progress, and managing daily development goals.
 
@@ -113,19 +113,19 @@ A dashboard concept for organizing tasks, tracking progress, and managing daily 
 
 `React` `TypeScript` `CSS`
 
-**Focus**
+**Focus areas**
 - Reusable UI components
 - State management
 - Responsive layouts
 
-[View repository](https://github.com/divyashgoyani/devboard)
+[Repository](https://github.com/divyashgoyani/devboard)
 
 </td>
 <td width="50%" valign="top">
 
 ### ◈ ExpenseFlow
 
-**Personal Expense Tracker**
+**A Personal Expense Tracker**
 
 A full-stack application concept for recording expenses, categorizing transactions, and visualizing spending.
 
@@ -133,12 +133,12 @@ A full-stack application concept for recording expenses, categorizing transactio
 
 `React` `Node.js` `Express` `MongoDB`
 
-**Focus**
+**Focus areas**
 - REST API development
-- Database integration
+- Database operations
 - Data visualization
 
-[View repository](https://github.com/divyashgoyani/expenseflow)
+[Repository](https://github.com/divyashgoyani/expenseflow)
 
 </td>
 </tr>
@@ -147,54 +147,54 @@ A full-stack application concept for recording expenses, categorizing transactio
 
 ### ◈ Portfolio Studio
 
-**Personal Developer Portfolio**
+**A Personal Developer Portfolio**
 
-A portfolio concept for showcasing projects, technical skills, and professional experience.
+A portfolio website showcasing projects, technical skills, and professional experience.
 
 **Planned stack**
 
 `Vue.js` `JavaScript` `CSS`
 
-**Focus**
-- Responsive design
+**Focus areas**
+- UI design
+- Responsive development
 - Accessibility
-- UI implementation
 
-[View repository](https://github.com/divyashgoyani/portfolio-studio)
+[Repository](https://github.com/divyashgoyani/portfolio-studio)
 
 </td>
 <td width="50%" valign="top">
 
 ### ◈ API Explorer
 
-**API Exploration Tool**
+**A Web API Exploration Tool**
 
-A tool concept for exploring API responses, inspecting JSON data, and understanding HTTP request/response workflows.
+An application concept for exploring API responses, inspecting JSON data, and understanding request/response workflows.
 
 **Planned stack**
 
 `JavaScript` `REST APIs` `Node.js`
 
-**Focus**
+**Focus areas**
 - HTTP fundamentals
 - Asynchronous JavaScript
 - Error handling
 
-[View repository](https://github.com/divyashgoyani/api-explorer)
+[Repository](https://github.com/divyashgoyani/api-explorer)
 
 </td>
 </tr>
 </table>
 
-> **Note:** The projects above are proposed project ideas, not completed work. Replace the sample links with actual repositories as you build them.
+> **Note:** These are illustrative project concepts, not claims about completed repositories. Replace the names and links with real projects when you create them.
 
 ---
 
-## 04 — Learning & Certifications
+## `04` — Learning & Certifications
 
-<table width="100%">
+<table>
 <tr>
-<td valign="top" width="70%">
+<td width="70%" valign="top">
 
 ### Full Stack Development
 
@@ -203,16 +203,16 @@ A tool concept for exploring API responses, inspecting JSON data, and understand
 Completed
 
 </td>
-<td align="right" valign="middle" width="30%">
+<td width="30%" align="center" valign="middle">
 
 <a href="https://my.newtonschool.co/course/zqakyw6baqjh/certificate/pbr6imp9ev9b/verify">
-<img src="https://img.shields.io/badge/Certificate-Verify-16A34A?style=for-the-badge" alt="Verify Newton School certificate"/>
+<img src="https://img.shields.io/badge/CERTIFICATE-VERIFY-16A34A?style=for-the-badge" alt="Verify certificate"/>
 </a>
 
 </td>
 </tr>
 <tr>
-<td valign="top" width="70%">
+<td width="70%" valign="top">
 
 ### Master React, Redux, Next.js, TypeScript and Git
 
@@ -221,9 +221,9 @@ Completed
 Currently in progress
 
 </td>
-<td align="right" valign="middle" width="30%">
+<td width="30%" align="center" valign="middle">
 
-<img src="https://img.shields.io/badge/Course-In%20Progress-2563EB?style=for-the-badge" alt="Udemy course in progress"/>
+<img src="https://img.shields.io/badge/STATUS-IN%20PROGRESS-2563EB?style=for-the-badge" alt="Course in progress"/>
 
 </td>
 </tr>
@@ -231,25 +231,25 @@ Currently in progress
 
 ---
 
-## 05 — Professional Experience
+## `05` — Professional Experience
 
 ### Zygal.io (DIPL)
 
 **Frontend / UI Development**  
 November 2022 – Present · Pune, India
 
-Working in a frontend/UI development role within an existing PHP-based product environment.
+Working on frontend/UI development in an existing PHP-based product environment.
 
 ### Newton School
 
 **Internship**  
 April 2022 – October 2022 · Surat, India
 
-Completed an internship before transitioning into a full-time development role.
+Completed an internship before moving into a full-time development role.
 
 ---
 
-## 06 — GitHub Activity
+## `06` — GitHub Activity
 
 <div align="center">
 
@@ -271,7 +271,7 @@ Completed an internship before transitioning into a full-time development role.
 </td>
 </tr>
 <tr>
-<td colspan="2" align="center" valign="top">
+<td colspan="2" align="center">
 
 <br/>
 
@@ -287,42 +287,22 @@ Completed an internship before transitioning into a full-time development role.
 
 ---
 
-## 07 — Beyond Code
+## `07` — Beyond Code
 
-I also enjoy graphic design, visual storytelling, and content creation. These interests influence how I approach visual details, creative problem-solving, and user experience.
+I also enjoy graphic design, visual storytelling, and creating content. These interests influence how I approach visual details, presentation, and user experience in web development.
 
 ---
 
-<!-- ===================================================== -->
-<!--                       FOOTER                          -->
-<!-- ===================================================== -->
-
 <div align="center">
 
-### LET'S BUILD SOMETHING MEANINGFUL.
+### Let's build something meaningful.
 
-<br/>
-
-<a href="https://divyash.netlify.app">
-  <img src="https://img.shields.io/badge/Portfolio-Visit%20Website-2563EB?style=for-the-badge&logo=googlechrome&logoColor=white" alt="Portfolio"/>
-</a>
-<a href="https://www.linkedin.com/in/divyashgoyani">
-  <img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
-</a>
+<a href="https://divyash.netlify.app">Portfolio</a> &nbsp;·&nbsp;
+<a href="https://www.linkedin.com/in/divyashgoyani">LinkedIn</a> &nbsp;·&nbsp;
+<a href="mailto:divyashgoyani19@gmail.com">Email</a>
 
 <br/><br/>
 
-<a href="mailto:divyashgoyani19@gmail.com">
-  <img src="https://img.shields.io/badge/Email-Contact-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/>
-</a>
-<a href="https://www.instagram.com/divyashgoyani">
-  <img src="https://img.shields.io/badge/Instagram-Follow-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram"/>
-</a>
-
-<br/><br/>
-
-<img src="https://capsule-render.vercel.app/api?type=rect&color=0:2563EB,100:0B1020&height=65&section=footer" alt="Footer decoration"/>
-
-<sub>Designed with intention · Built through continuous learning.</sub>
+<img src="https://capsule-render.vercel.app/api?type=rect&color=0:2563EB,100:0B1020&height=70&section=footer" alt="Footer"/>
 
 </div>
